@@ -49,7 +49,7 @@ it maps, `mocks` the data it shows before the server exists, and `granite` the p
 ## Get it
 
 In Craft, install Loom from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/LoomAgent.git`, then say `$loom` in a request.
+`craft agents add https://github.com/rao-craft/LoomAgent.git`, then say `$loom` in a request.
 
 ## Requirements
 

@@ -14,7 +14,7 @@ let loomRecord: GraniteRoster.Record = { GraniteRoster.record(LoomAgent.self) }
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/LoomAgent.git`, then say `$loom` in a request:
+`craft agents add https://github.com/rao-craft/LoomAgent.git`, then say `$loom` in a request:
 
 ```
 $loom the social screens for the cooking app: dishes as posts, notes as comments, cooks and clubs
