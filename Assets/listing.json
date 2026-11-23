@@ -15,5 +15,12 @@
   "platforms": [
     "macOS 14"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "illustrations": [
+    {
+      "path": "Assets/illustrations/what-you-get.png",
+      "alt": "Three phones from a cooking app: a feed of dish posts with votes and notes, a post with its threaded comments, and the same feed as compact rows with thumbnails and scores.",
+      "caption": "Feeds, posts, threads and profiles over your own types."
+    }
+  ]
 }
